@@ -17,6 +17,7 @@ export PATH=$PATH:$ANDROID_HOME/tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 export PATH=$PATH:$HOME/development/flutter/bin
 export CHROME_EXECUTABLE=/usr/bin/google-chrome-stable
+export WORKSPACE=/media/workspace
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
